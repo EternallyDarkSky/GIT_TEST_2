@@ -1,1 +1,2 @@
 c4
+main in c4.txt
